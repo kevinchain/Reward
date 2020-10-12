@@ -1,1 +1,0 @@
-![login](https://github.com/terry-do/Reward/raw/master/screenshots/wechat.png)
